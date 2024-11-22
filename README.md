@@ -12,4 +12,4 @@ Running the code
 
 Acknowledgements
 
-This project is partially supported by the National Natural Science Foundation of China (No.12272297). Moreover, we have incorporated code from the paper "An implicit–explicit time discretization scheme for second-order semilinear wave equations with application to dynamic boundary conditions" by Marlis Hochbruck and Jan Leibold, and we are grateful for their contribution to our project.
+This project is partially supported by the National Natural Science Foundation of China (No.12272297). Moreover, we have incorporated the spatial discretization part of the codes from the paper "An implicit–explicit time discretization scheme for second-order semilinear wave equations with application to dynamic boundary conditions" by Marlis Hochbruck and Jan Leibold, and we are grateful for their contribution to our project.
